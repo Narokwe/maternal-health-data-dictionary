@@ -1,0 +1,42 @@
+[
+    {
+        "Column Name":"id",
+        "Data Type":"integer",
+        "Is Nullable":"NO"
+    },
+    {
+        "Column Name":"country",
+        "Data Type":"character varying",
+        "Is Nullable":"YES"
+    },
+    {
+        "Column Name":"year",
+        "Data Type":"integer",
+        "Is Nullable":"YES"
+    },
+    {
+        "Column Name":"maternal_mortality_rate",
+        "Data Type":"double precision",
+        "Is Nullable":"YES"
+    },
+    {
+        "Column Name":"antenatal_care_coverage",
+        "Data Type":"double precision",
+        "Is Nullable":"YES"
+    },
+    {
+        "Column Name":"skilled_birth_attendance",
+        "Data Type":"double precision",
+        "Is Nullable":"YES"
+    },
+    {
+        "Column Name":"contraceptive_prevalence",
+        "Data Type":"double precision",
+        "Is Nullable":"YES"
+    },
+    {
+        "Column Name":"adolescent_birth_rate",
+        "Data Type":"double precision",
+        "Is Nullable":"YES"
+    }
+]
